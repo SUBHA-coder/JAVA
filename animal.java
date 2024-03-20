@@ -1,4 +1,5 @@
 import java.util.*;
+import java.Scanner;
 class animal { 
     public static void main(String[] args)
     {
